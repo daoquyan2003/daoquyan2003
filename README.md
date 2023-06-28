@@ -1,10 +1,10 @@
 # Hi there 👋
 
-I’m An
+I’m An,
 
-I’m presently a Computer Science student of UET - VNU
+I’m presently a Computer Science student of UET - VNU.
 
-I’m currently learning Machine Learning and Data Science
+I’m currently learning Machine Learning and Data Science.
 
 You can find me on [Facebook](https://www.facebook.com/dqa2003) and [Twitter](https://twitter.com/daoquyan).
 
